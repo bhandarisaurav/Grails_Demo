@@ -58,6 +58,8 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" scope="PROVIDED" name="jquery" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="bootstrap" level="application" />
     <orderEntry type="module-library" exported="">
       <library name="Grails User Library (Grails_Demo-grailsPlugins)">
         <CLASSES>
