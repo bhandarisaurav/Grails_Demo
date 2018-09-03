@@ -4115,3 +4115,10 @@ n:566:org/codehaus/groovy/grails/validation/Validateable
 n:2273:org/codehaus/groovy/grails/commons/GrailsApplication$isArtefactOfType
 n:1831:sl/org/objectweb/asm/tree/TryCatchBlockNode
 n:2188:org/codehaus/groovy/grails/commons/GrailsApplication$addArtefact$0
+n:1887:org/codehaus/groovy/grails/cli/interactive/InteractiveMode$getCurrent
+n:3103:jline/console/history/MemoryHistory$EntriesIterator
+n:1117:jline/console/history/MemoryHistory$EntryImpl
+n:264:jline/console/history/History$Entry
+n:2388:BuildConfig$_run_closure1$_closure4
+n:4601:BuildConfig
+n:4541:BuildConfig
