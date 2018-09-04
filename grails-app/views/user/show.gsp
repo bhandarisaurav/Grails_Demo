@@ -14,8 +14,9 @@
 				<li><g:link class="home" action="index">Home</g:link></li>
 				<li><g:link class="list" action="index">User List</g:link></li>
 				<li><g:link class="create" action="create">Add User</g:link></li>
-				<li style="float: right;"><g:link class="logout" action="logout">Logout</g:link></li>
+				<li><g:link action="Logout">Logout</g:link></li>
 			</ul>
+			%{--<i class="fas fa-sign-out-alt"></i>&nbsp; style="float: right;"--}%
 		</div>
 		<div id="show-user" class="content scaffold-show" role="main">
 			<h1><g:message code="default.show.label" args="[entityName]" /></h1>
