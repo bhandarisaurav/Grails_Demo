@@ -14,7 +14,7 @@
 				<li><g:link class="home" action="index">Home</g:link></li>
 				<li><g:link class="list" action="index">User List</g:link></li>
 				<li><g:link class="create" action="create">Add User</g:link></li>
-				<li><g:link action="Logout">Logout</g:link></li>
+				<li><g:link action="logout">Logout</g:link></li>
 			</ul>
 			%{--<i class="fas fa-sign-out-alt"></i>&nbsp; style="float: right;"--}%
 		</div>
