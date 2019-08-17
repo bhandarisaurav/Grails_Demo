@@ -1,8 +1,8 @@
 language: java
 
 jdk:
-  - openjdk7
-  - oraclejdk7
+  - openjdk9
+  - oraclejdk9
 
 before_install:
  - sudo add-apt-repository -y ppa:groovy-dev/grails
